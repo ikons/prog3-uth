@@ -1,0 +1,3 @@
+# Αλλαγή γραμμής LF παντού, και στα Windows: με CRLF τα σκριπτ και τα makefile δεν τρέχουν.
+* text=auto eol=lf
+*.png binary

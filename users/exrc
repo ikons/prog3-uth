@@ -1,0 +1,5 @@
+set autoindent
+set ignorecase
+set showmode
+set history=20
+set nonumber
