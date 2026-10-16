@@ -12,8 +12,7 @@ for Programmers and Users», 3η έκδοση, κεφάλαιο 12. Οι δια�
 | `main1-commented.make` | το `main1.make` με έναν αριθμό σε κάθε κανόνα, για το δέντρο εξαρτήσεων |
 | `spaces.make` | το `main1.make` με κενά αντί για TAB: `missing separator` |
 | `sleek.make` | το `main2.make` με τους ενσωματωμένους κανόνες του make |
-| `book.make` | το μεγαλύτερο makefile των παλιών διαφανειών, **με τα λάθη του** (`CFALGS`, `lint`, `clean`) |
-| `Makefile` | η διορθωμένη εκδοχή του, με μεταβλητές και αυτόματες μεταβλητές |
+| `Makefile` | ένα makefile για τα δύο προγράμματα, με μεταβλητές, αυτόματες μεταβλητές και `.PHONY` |
 | `dep/Makefile` | εξαρτήσεις από τον μεταγλωττιστή (`-MMD -MP`) |
 
 ```bash
